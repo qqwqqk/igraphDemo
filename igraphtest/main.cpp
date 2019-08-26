@@ -13,8 +13,8 @@ int main(){
 	int mothed = WALKTRAP;
 
 	const char* name = "MC";
-	const char* intercept = "B";
-	const int number = 800;
+	const char* intercept = "E"; 
+	const int number = 10000;
 	const char* nodetype = "A";
 
 	sprintf_s(splite, 100, "%s_%s_%s%d.txt", name, nodetype, intercept, number);

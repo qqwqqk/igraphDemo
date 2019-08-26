@@ -1,4 +1,4 @@
-﻿生成启动时间为 2019/8/11 12:11:21。
+﻿生成启动时间为 2019/8/26 10:31:32。
      1>项目“E:\github\igraphDemo\igraphtest\igraphtest.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"..\igraph-0.7.1-msvc\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -13,4 +13,4 @@
 
 生成成功。
 
-已用时间 00:00:00.90
+已用时间 00:00:01.12
